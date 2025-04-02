@@ -1,0 +1,147 @@
+Detail:
+{
+    "id": 22741841,
+    "tags": [
+        {
+            "name": "崩坏星穹铁道",
+            "translated_name": "Honkai: Star Rail",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "符玄",
+            "translated_name": "Fu Xuan",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "白露",
+            "translated_name": "Shiratsuyu",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "悪堕ち",
+            "translated_name": "corrupted",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "触手",
+            "translated_name": "tentacle",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "恶堕",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "调教",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "藿藿",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "淫乱化",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "淫纹",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        }
+    ],
+    "user": {
+        "id": 39902485,
+        "name": "SatoriAbi",
+        "account": "abigail-satori",
+        "is_followed": false,
+        "profile_image_urls": {
+            "medium": "https://i.pximg.net/user-profile/img/2023/02/27/07/50/03/24086452_4efe1bc8070a69a85f873580b042fc9b_170.png"
+        }
+    },
+    "title": "【新篇预告】崩坏星穹铁道恶堕同人——丰饶令使符玄·永生乐土罗浮04：欲火燎原·藿藿♡~",
+    "series": {
+        "id": 10747802,
+        "title": "【星穹铁道恶堕系列】丰饶令使符玄，永生乐土罗浮。"
+    },
+    "caption": "",
+    "visible": true,
+    "is_muted": false,
+    "restrict": 0,
+    "image_urls": {
+        "large": "https://i.pximg.net/c/240x480_80/novel-cover-master/img/2024/08/10/00/33/03/ci22741841_ea4c9c0120c559e11674bad7e15afe04_master1200.jpg",
+        "medium": "https://i.pximg.net/c/176x352/novel-cover-master/img/2024/08/10/00/33/03/ci22741841_ea4c9c0120c559e11674bad7e15afe04_master1200.jpg",
+        "square_medium": "https://i.pximg.net/c/128x128/novel-cover-master/img/2024/08/10/00/33/03/ci22741841_ea4c9c0120c559e11674bad7e15afe04_square1200.jpg"
+    },
+    "page_count": 1,
+    "total_view": 5828,
+    "x_restrict": 1,
+    "create_date": "2024-08-10T00:33:03+09:00",
+    "is_original": false,
+    "text_length": 221,
+    "is_bookmarked": false,
+    "novel_ai_type": 1,
+    "total_comments": 22,
+    "is_mypixiv_only": false,
+    "is_x_restricted": false,
+    "total_bookmarks": 263
+}
+Content:
+咳咳，咕了整整一年的丰饶恶堕系列终于要更新第四话啦~
+其实是得益于这一次新版本的罗浮剧情，补足了仙舟线狐人、步离人，甚至还有岁阳的设定，才让我真正有了动笔的底气嗯嗯。
+
+看标题和封面也知道，这一次的受害者，会是咱们的胆小可爱的狐人判官藿藿~
+
+会由第三话里完成恶堕的小白露来主导、符玄辅助。最终让藿藿吸收掉绥园里所有的岁阳，以岁阳之王燎原的身份再诞~
+
+嗯，完整版大概3-4万字，预计…下周末放出~
+
+大家敬请期待哦~
+
+SatoriAbi~
+Comments:
+Comment by wgjuj(id:57291358) at 2024-08-16T09:19:00+09:00:
+"会写云璃吗？"
+Comment by Kerry(id:5193272) at 2024-08-16T03:26:00+09:00:
+"好啊！准确的说是咕了半年。"
+Comment by 弗拉基米尔(id:64999558) at 2024-08-15T13:03:00+09:00:
+"大佬我等不及了"
+Comment by 大妖精(id:89639253) at 2024-08-14T21:03:00+09:00:
+"一年了吗，时间过的真快啊"
+Comment by 弗拉基米尔(id:64999558) at 2024-08-13T17:13:00+09:00:
+"就要狠狠中出熊孩子"
+Comment by 崇宫澪(id:16217080) at 2024-08-13T13:52:00+09:00:
+"不知道发什么，挑一名幸运观众撅一下吧"
+Comment by 弗拉基米尔(id:64999558) at 2024-08-11T19:53:00+09:00:
+"让我们一起for the nurgle baba(normal)"
+Comment by Lucky  Link(id:13220160) at 2024-08-11T14:48:00+09:00:
+"(surprise)霍霍完事该轮到云璃惹"
+Comment by yiluka(id:9130348) at 2024-08-11T11:54:00+09:00:
+"期待"
+Comment by SatoriAbi(id:39902485) at 2024-08-11T01:35:00+09:00:
+"要的("
+Comment by theghostvision(id:26178961) at 2024-08-11T00:46:00+09:00:
+"要娘掉尾巴吗(serious)"
+Comment by nekoniko(id:62160476) at 2024-08-10T22:00:00+09:00:
+"期待"
+Comment by 银羽(id:25941623) at 2024-08-10T10:01:00+09:00:
+"期待期待～"
+Comment by 弗拉基米尔(id:64999558) at 2024-08-10T03:46:00+09:00:
+"好"
+Comment by 风见幽芸(id:3352371) at 2024-08-10T03:37:00+09:00:
+"好好好 qi d ai q"
+Comment by 南山仙人球(id:84430528) at 2024-08-10T02:14:00+09:00:
+"大佬终于找回了属于自己的号"
+Comment by Ssssandy丶(id:15800996) at 2024-08-10T02:01:00+09:00:
+"(love2)终于等到你！！"
+Comment by yangyyxyu(id:14749569) at 2024-08-10T01:48:00+09:00:
+"好耶，既然藿藿已经安排上了，那么素裳桂乃芬静流雪衣寒鸦飞霄等人的一定不远了吧(excited3)"
+Comment by 泠月(id:70882815) at 2024-08-10T01:26:00+09:00:
+"想看镜流(love3)"
+Comment by Haru Su(id:27882749) at 2024-08-10T00:55:00+09:00:
+"赞美大佬！赞美大佬！说实话好想看到云璃飞霄灵砂的丰饶恶堕是怎么样的，特别是飞霄这种坚强武力高超的讨丰饶将军的丰饶恶堕过程，想想都让人鸡儿硬的不行(love2)(love2)(love2)(love2)(love2)(love2)"
+Comment by 我在哪我是誰(id:37846752) at 2024-08-10T00:53:00+09:00:
+"已經一年了哦(heaven)(heaven)"

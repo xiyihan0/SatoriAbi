@@ -1,0 +1,135 @@
+Detail:
+{
+    "id": 20323149,
+    "tags": [
+        {
+            "name": "R-18",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "崩坏星穹铁道",
+            "translated_name": "Honkai: Star Rail",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "符玄",
+            "translated_name": "Fu Xuan",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "青雀",
+            "translated_name": "Qingque",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "百合",
+            "translated_name": "yuri",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "悪堕ち",
+            "translated_name": "corrupted",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "触手",
+            "translated_name": "tentacle",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "恶堕",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "洗脳",
+            "translated_name": "brainwash",
+            "added_by_uploaded_user": true
+        }
+    ],
+    "user": {
+        "id": 39902485,
+        "name": "SatoriAbi",
+        "account": "abigail-satori",
+        "is_followed": false,
+        "profile_image_urls": {
+            "medium": "https://i.pximg.net/user-profile/img/2023/02/27/07/50/03/24086452_4efe1bc8070a69a85f873580b042fc9b_170.png"
+        }
+    },
+    "title": "【预告&已于周六23:00放出】丰饶令使恶堕符玄中篇，小青雀的调教恶堕",
+    "series": {
+        "id": 10747802,
+        "title": "【星穹铁道恶堕系列】丰饶令使符玄，永生乐土罗浮。"
+    },
+    "caption": "这只是一个预告而已~",
+    "visible": true,
+    "is_muted": false,
+    "restrict": 0,
+    "image_urls": {
+        "large": "https://i.pximg.net/c/240x480_80/novel-cover-master/img/2023/07/24/02/17/26/sci10747802_31ca1fca2e9d032a1266e8644e8584a1_master1200.jpg",
+        "medium": "https://i.pximg.net/c/176x352/novel-cover-master/img/2023/07/24/02/17/26/sci10747802_31ca1fca2e9d032a1266e8644e8584a1_master1200.jpg",
+        "square_medium": "https://i.pximg.net/c/128x128/novel-cover-master/img/2023/07/24/02/17/26/sci10747802_31ca1fca2e9d032a1266e8644e8584a1_square1200.jpg"
+    },
+    "page_count": 1,
+    "total_view": 15999,
+    "x_restrict": 1,
+    "create_date": "2023-07-24T12:20:51+09:00",
+    "is_original": false,
+    "text_length": 309,
+    "is_bookmarked": false,
+    "novel_ai_type": 1,
+    "total_comments": 17,
+    "is_mypixiv_only": false,
+    "is_x_restricted": false,
+    "total_bookmarks": 491
+}
+Content:
+嗯，这只是一个预告而已哦！
+
+在建木之中接受了丰饶星神药师的恩赐，彻底堕落为丰饶令使的恶堕符玄，回到太卜司调教凌辱毫无防备小青雀，并最终让她成为药王秘传的莳者，堕落为符玄的忠实信徒的涩涩故事已经在路上了哦~
+
+啊对了，前篇的在这里：https://www.pixiv.net/novel/show.php?id=19796598
+
+大概字数也是和上一篇差不多的~2.5-3万应该…不算少吧~？
+
+另外，如果大家喜欢的话，还有更后面的后续哦（
+
+这一次1.2的剧情，本来对符玄的出场率期待不高的，结果没想到实际上还非常多呢！收集到了不少有意思的信息，还有很多全新的灵感，都会写在文章里的~
+
+所以所以，请大家好好期待哦~
+Comments:
+Comment by 24岁，是魔法师(id:92606724) at 2023-07-31T01:31:00+09:00:
+"符玄，青雀，白露，作者果然是萝莉控呢。"
+Comment by 倾雨(id:34552295) at 2023-07-29T11:10:00+09:00:
+"狐狐狐"
+Comment by shaoziqi(id:37938827) at 2023-07-29T00:04:00+09:00:
+"期待"
+Comment by 大妖精(id:89639253) at 2023-07-27T00:52:00+09:00:
+"好耶！"
+Comment by a's'da's'd'q'wa(id:23532537) at 2023-07-26T01:59:00+09:00:
+"期待"
+Comment by 早苗(id:47022173) at 2023-07-26T00:50:00+09:00:
+"好好好"
+Comment by lacscl(id:55951765) at 2023-07-25T10:51:00+09:00:
+"急急急"
+Comment by 现代秦国(id:79546380) at 2023-07-25T02:34:00+09:00:
+"gkdgkd"
+Comment by 猥了生活(id:6063516) at 2023-07-24T18:55:00+09:00:
+"急急急！一想到小青雀被大佬就这么寸止挂了三个月，我就特别急。"
+Comment by 如梦似幻(id:85420674) at 2023-07-24T18:43:00+09:00:
+"坐等(excited)"
+Comment by 鲮鲤(id:32867425) at 2023-07-24T16:53:00+09:00:
+"急急急"
+Comment by 芝士爱德(id:79729749) at 2023-07-24T16:02:00+09:00:
+"咱可以现在就脱裤子准备吗？"
+Comment by 卡面来打(id:42428306) at 2023-07-24T14:00:00+09:00:
+"期待，好奇会有幻胧嘛(normal)"
+Comment by kancolle(id:35443099) at 2023-07-24T14:00:00+09:00:
+"急急急急急"
+Comment by SatoriAbi(id:39902485) at 2023-07-24T13:15:00+09:00:
+"提前了（主要是1.2给的剧情已经足够我继续描绘符玄的性格了（"
+Comment by 我在哪我是誰(id:37846752) at 2023-07-24T13:12:00+09:00:
+"大佬之前好像說過會在type c那個池的時候發 刃之後再過兩個池就到了(serious)"
+Comment by 略略略(id:41110662) at 2023-07-24T13:09:00+09:00:
+"快快端上来罢（喜）"

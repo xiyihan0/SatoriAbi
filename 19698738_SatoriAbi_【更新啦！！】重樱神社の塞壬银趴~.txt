@@ -1,0 +1,105 @@
+Detail:
+{
+    "id": 19698738,
+    "tags": [
+        {
+            "name": "R-18",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "碧蓝航线",
+            "translated_name": "Azur Lane",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "恶堕",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "长门",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "纯爱",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "塞壬化",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "悪堕ち",
+            "translated_name": "corrupted",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "長門(アズールレーン)",
+            "translated_name": "Nagato (Azur Lane)",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "百合",
+            "translated_name": "yuri",
+            "added_by_uploaded_user": true
+        }
+    ],
+    "user": {
+        "id": 39902485,
+        "name": "SatoriAbi",
+        "account": "abigail-satori",
+        "is_followed": false,
+        "profile_image_urls": {
+            "medium": "https://i.pximg.net/user-profile/img/2023/02/27/07/50/03/24086452_4efe1bc8070a69a85f873580b042fc9b_170.png"
+        }
+    },
+    "title": "【更新啦！！】重樱神社の塞壬银趴~",
+    "series": {
+        "id": 9938582,
+        "title": "异常实验海域S：预告区"
+    },
+    "caption": "",
+    "visible": true,
+    "is_muted": false,
+    "restrict": 0,
+    "image_urls": {
+        "large": "https://i.pximg.net/c/240x480_80/novel-cover-master/img/2023/01/15/05/57/10/sci9938582_14cce28ed32d94319fb22132a75c8a17_master1200.jpg",
+        "medium": "https://i.pximg.net/c/176x352/novel-cover-master/img/2023/01/15/05/57/10/sci9938582_14cce28ed32d94319fb22132a75c8a17_master1200.jpg",
+        "square_medium": "https://i.pximg.net/c/128x128/novel-cover-master/img/2023/01/15/05/57/10/sci9938582_14cce28ed32d94319fb22132a75c8a17_square1200.jpg"
+    },
+    "page_count": 1,
+    "total_view": 3236,
+    "x_restrict": 1,
+    "create_date": "2023-04-16T04:46:31+09:00",
+    "is_original": false,
+    "text_length": 260,
+    "is_bookmarked": false,
+    "novel_ai_type": 1,
+    "total_comments": 5,
+    "is_mypixiv_only": false,
+    "is_x_restricted": false,
+    "total_bookmarks": 129
+}
+Content:
+       咳咳喵，虽然最近看起来人心惶惶的喵。但是…！咱作为兴趣使然的用爱发电写手，再加上咱的本体现在姑且还在皇家，所以更新什么的都是一切正常的啦~不过这边一周没更的原因嘛…当然是在写新的色色回咯~字数先保密什么的，因为自己都不知道能有多少…姑且先放个2w+在这里~老观众估计是知道含义的ww~
+
+     下周将会更新的故事时间线，发生在正文的神樱大祭之前没几天~是长门收编自己的代行者们的故事~涉及到触手，恶堕，百合，连锁堕，银趴，调教——咳咳，咱的tag一直都是拉满的所以…嘛，具体就等正文吧~
+
+    
+
+
+Comments:
+Comment by SatoriAbi(id:39902485) at 2023-04-17T00:10:00+09:00:
+"关北北什么事啊！？"
+Comment by 火控女孩上反稳像(id:61221283) at 2023-04-16T22:55:00+09:00:
+"恶毒酱你又cue北北哦"
+Comment by SatoriAbi(id:39902485) at 2023-04-16T17:39:00+09:00:
+"确实是在皇家捏（"
+Comment by 梦璃夜丶天星(id:13861455) at 2023-04-16T15:38:00+09:00:
+"在皇家可还行（ん"
+Comment by Powovrwhelming(id:69754219) at 2023-04-16T15:19:00+09:00:
+"好！好！好！"

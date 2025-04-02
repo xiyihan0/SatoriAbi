@@ -1,0 +1,140 @@
+Detail:
+{
+    "id": 19453344,
+    "tags": [
+        {
+            "name": "碧蓝航线",
+            "translated_name": "Azur Lane",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "长门",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "纯爱",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "塞壬化",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "ル・マラン(アズールレーン)",
+            "translated_name": "Le Malin (Azur Lane)",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "百合",
+            "translated_name": "yuri",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "触手",
+            "translated_name": "tentacle",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "悪堕ち",
+            "translated_name": "corrupted",
+            "added_by_uploaded_user": true
+        }
+    ],
+    "user": {
+        "id": 39902485,
+        "name": "SatoriAbi",
+        "account": "abigail-satori",
+        "is_followed": false,
+        "profile_image_urls": {
+            "medium": "https://i.pximg.net/user-profile/img/2023/02/27/07/50/03/24086452_4efe1bc8070a69a85f873580b042fc9b_170.png"
+        }
+    },
+    "title": "【正文已更新】千粉贺文预告：长门初堕重置版（2w字以上）",
+    "series": {
+        "id": 9938582,
+        "title": "异常实验海域S：预告区"
+    },
+    "caption": "“喵…今天，明石和剧组都不上班喵…让明石，多睡一会喵…喵嘿嘿，亲爱的…♡~”",
+    "visible": true,
+    "is_muted": false,
+    "restrict": 0,
+    "image_urls": {
+        "large": "https://i.pximg.net/c/240x480_80/novel-cover-master/img/2023/01/15/05/57/10/sci9938582_14cce28ed32d94319fb22132a75c8a17_master1200.jpg",
+        "medium": "https://i.pximg.net/c/176x352/novel-cover-master/img/2023/01/15/05/57/10/sci9938582_14cce28ed32d94319fb22132a75c8a17_master1200.jpg",
+        "square_medium": "https://i.pximg.net/c/128x128/novel-cover-master/img/2023/01/15/05/57/10/sci9938582_14cce28ed32d94319fb22132a75c8a17_square1200.jpg"
+    },
+    "page_count": 1,
+    "total_view": 2293,
+    "x_restrict": 0,
+    "create_date": "2023-03-09T18:35:48+09:00",
+    "is_original": false,
+    "text_length": 675,
+    "is_bookmarked": false,
+    "novel_ai_type": 1,
+    "total_comments": 16,
+    "is_mypixiv_only": false,
+    "is_x_restricted": false,
+    "total_bookmarks": 90
+}
+Content:
+正文在这里哟：
+
+https://www.pixiv.net/novel/show.php?id=19468235
+
+（因为TAG太多可能会搜不到什么的……）
+
+呀……写文到现在，也已经三个半月了呢。从刚开始的籍籍无名，到现在已经能被人从群里给认出来什么的…实在是感慨万千呐。
+
+这一路上，遇到了循循善诱分享经验的各位前辈，遇到了孜孜不倦教导我文笔正常的师傅，也遇到了能够和我分享各种恶堕情节的同好。
+
+真的非常感谢大家~
+
+前两天，咱就已经发现粉丝数快突破三位数了，再加上看到自己曾经不成熟的剧情和文笔，决定开启一个涩涩回重置企划~
+
+主要原因嘛，其实还是发现长门恶堕的剧情实在是太短了，加起来才3000个字…甚至没什么玩法就堕了！这是对咱大老婆之一的长萌萌不负责！咱要给长萌萌一个……两万+字，附带各种玩法调教完整的恶堕！
+
+贺文已经在爆肝中啦~不过说实话，从前天看到自己985个粉丝开始有的一腔热血，到今天看到自己988个粉丝的几乎原地踏步……就觉得自己是个半场开香槟的小丑……
+
+所以，看到这个预告的你，如果对咱的，对SatoriAbi的色色文也好，小说也罢，有兴趣的话…不知道能不能给咱点个关注，助力长萌萌被玩坏~嘿嘿……
+
+啊对了，如果可以的话也请多多评论哦，无论是锐评还是问题什么的，咱都会一一回复和解答的~所以，顺便在这里问一下，大家觉得…我有资格建自己的同好交流群了吗…？大家，会愿意来我的群里玩吗…？
+
+好啦，预告就这样~作为纯H文的预告，也不可能透露什么东西的对吧~？啊对了，今天的明石小剧场也在休息，就不不打搅明石老板啦~
+
+
+Comments:
+Comment by SatoriAbi(id:39902485) at 2023-03-13T02:55:00+09:00:
+"？？？？？？不是怎么就逆天了……"
+Comment by yellowsea(id:91104946) at 2023-03-13T02:44:00+09:00:
+"逆天"
+Comment by yellowsea(id:91104946) at 2023-03-13T02:44:00+09:00:
+"逆天"
+Comment by SatoriAbi(id:39902485) at 2023-03-11T23:29:00+09:00:
+"诶？为啥取关了？"
+Comment by Sap(id:88374102) at 2023-03-11T22:42:00+09:00:
+"这样啊，取关了(excited3)"
+Comment by 可萝(id:19106487) at 2023-03-11T13:08:00+09:00:
+"(surprise4)才没有呢，慢慢来鸭恶毒大大"
+Comment by SatoriAbi(id:39902485) at 2023-03-11T08:27:00+09:00:
+"哎嘿？其实还是做个流量寄生形选手比较好w？"
+Comment by 可萝(id:19106487) at 2023-03-10T23:22:00+09:00:
+"会来玩的！恶毒大大加油(shame2)"
+Comment by SatoriAbi(id:39902485) at 2023-03-10T16:48:00+09:00:
+"自己回去看的时候发现连自己都不过瘾嘛w既然是最爱的老婆之一，那当然要给她好好玩坏ww"
+Comment by 猥了生活(id:6063516) at 2023-03-10T10:45:00+09:00:
+"恶堕一次还不够，还要再来一次，真的是太棒了。"
+Comment by SatoriAbi(id:39902485) at 2023-03-10T02:46:00+09:00:
+"敬请期待~"
+Comment by h256(id:14950707) at 2023-03-10T00:47:00+09:00:
+"(smile3)"
+Comment by SatoriAbi(id:39902485) at 2023-03-09T22:24:00+09:00:
+"然而总感觉掉粉了。。"
+Comment by 曙神星(id:65155378) at 2023-03-09T21:19:00+09:00:
+"期待www"
+Comment by SatoriAbi(id:39902485) at 2023-03-09T19:24:00+09:00:
+"嗯~谢谢你能支持我~"
+Comment by T.C.(id:425235) at 2023-03-09T19:23:00+09:00:
+"讚啦~很喜歡文章中色色的描述"

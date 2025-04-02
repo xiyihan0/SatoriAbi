@@ -1,0 +1,121 @@
+Detail:
+{
+    "id": 20686695,
+    "tags": [
+        {
+            "name": "R-18",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "崩坏星穹铁道",
+            "translated_name": "Honkai: Star Rail",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "符玄",
+            "translated_name": "Fu Xuan",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "白露",
+            "translated_name": "Shiratsuyu",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "百合",
+            "translated_name": "yuri",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "悪堕ち",
+            "translated_name": "corrupted",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "触手",
+            "translated_name": "tentacle",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "恶堕",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "催眠",
+            "translated_name": "Hypnosis",
+            "added_by_uploaded_user": true
+        },
+        {
+            "name": "调教",
+            "translated_name": null,
+            "added_by_uploaded_user": true
+        }
+    ],
+    "user": {
+        "id": 39902485,
+        "name": "SatoriAbi",
+        "account": "abigail-satori",
+        "is_followed": false,
+        "profile_image_urls": {
+            "medium": "https://i.pximg.net/user-profile/img/2023/02/27/07/50/03/24086452_4efe1bc8070a69a85f873580b042fc9b_170.png"
+        }
+    },
+    "title": "【预告】恶堕符玄下篇——以丰饶权能填补化龙妙法的空缺，在符玄手中蜕生的完美持明龙尊，涅槃饮月君白露。",
+    "series": {},
+    "caption": "啊，仅仅是一个预告，我还活着我还活着——虽然前两天的确是快疼死了（",
+    "visible": true,
+    "is_muted": false,
+    "restrict": 0,
+    "image_urls": {
+        "large": "https://i.pximg.net/c/240x480_80/novel-cover-master/img/2023/09/18/19/18/39/ci20686695_083757275f816c6f7131463955c52230_master1200.jpg",
+        "medium": "https://i.pximg.net/c/176x352/novel-cover-master/img/2023/09/18/19/18/39/ci20686695_083757275f816c6f7131463955c52230_master1200.jpg",
+        "square_medium": "https://i.pximg.net/c/128x128/novel-cover-master/img/2023/09/18/19/18/39/ci20686695_083757275f816c6f7131463955c52230_square1200.jpg"
+    },
+    "page_count": 1,
+    "total_view": 8104,
+    "x_restrict": 1,
+    "create_date": "2023-09-18T19:18:39+09:00",
+    "is_original": false,
+    "text_length": 329,
+    "is_bookmarked": false,
+    "novel_ai_type": 0,
+    "total_comments": 12,
+    "is_mypixiv_only": false,
+    "is_x_restricted": false,
+    "total_bookmarks": 463
+}
+Content:
+啊，这只是一个证明我还活着的预告而已啦！
+
+9月刚刚完成了毕业论文和答辩内容…现在正在毕业旅行~结果旅行到一半，居然还得了痛风差点死在床上……所以咕咕到现在也是没办法的嘛！
+
+咳咳，这次预告的是丰饶令使符玄的下篇，符玄要对可爱的小白露动手嘞~本来白露就没有被持明族的那些人好好对待，那几个老东西龙师还想和药王秘传联手，把白露当做傀儡龙尊，对罗浮发起反叛什么的…而且，这帮白眼狼一看到正统丹枫转生的丹恒回来，就打算刺杀小白露…这样腐朽肮脏的持明族，就让得到了符玄的悉心呵护与完美的权能传承的白露，好好地肃清一下吧~？
+
+大概还是三万左右的篇幅，现在我还没有结束旅行…每天能写的时间着实不多…正文大概会在国庆之前放出吧…嗯，应该可以~
+
+所以，请大家好好期待哟！
+Comments:
+Comment by 雪华无明(id:44283012) at 2023-09-21T16:44:00+09:00:
+"233，没有护盾的存护，但别说，符玄用起来真好用"
+Comment by SatoriAbi(id:39902485) at 2023-09-20T23:07:00+09:00:
+"存护的护盾BUFF和符玄根本不沾边儿（"
+Comment by Aughhhh(id:13822277) at 2023-09-20T16:34:00+09:00:
+"好！非常期待(heaven)(heaven)"
+Comment by 雪华无明(id:44283012) at 2023-09-20T15:20:00+09:00:
+"突然想到一个极其抽象的脑洞，符玄的技能组让她在模拟宇宙比起存护走丰饶更能带活全队，难不成.....作者真是大预言家？"
+Comment by lacscl(id:55951765) at 2023-09-19T06:44:00+09:00:
+"好好好 坐等"
+Comment by Phobos(id:15382927) at 2023-09-19T03:09:00+09:00:
+"好好好 非常期待"
+Comment by 2748061449(id:19826190) at 2023-09-19T01:59:00+09:00:
+"全都是tpcy-c的后宫（大喜）"
+Comment by 官方盯(id:30271002) at 2023-09-19T01:20:00+09:00:
+"超级期待"
+Comment by wssam(id:65014644) at 2023-09-18T21:45:00+09:00:
+"感动，期待更强烈的恶堕感"
+Comment by kc(id:27308166) at 2023-09-18T21:06:00+09:00:
+"浮玄大人的后宫系列（确信）"
+Comment by yangyyxyu(id:14749569) at 2023-09-18T20:22:00+09:00:
+"期待，敲鸡儿等(serious)"
